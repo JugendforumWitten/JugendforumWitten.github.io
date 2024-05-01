@@ -3,13 +3,15 @@
 		"youngPeople": [
 			{
 				"id": 0,
-				"title": "Recht jugendlichen 1234567890-",
-				"text": "Text jugendlichen 1 sdafgadfg"
+				"title": "Recht jugendlichen 1",
+				"text": "Text jugendlichen 1",
+				"documentUrl": "docs/testpdf.pdf"
 			},
 			{
 				"id": 1,
 				"title": "Recht jugendlichen 2",
-				"text": "Text jugendlichen 2"
+				"text": "Text jugendlichen 2",
+				"documentUrl": "docs/testword.docx"
 			},
 			{
 				"id": 2,
@@ -20,23 +22,20 @@
 				"id": 3,
 				"title": "Recht jugendlichen 4",
 				"text": "Text jugendlichen 4"
-			},
-			{
-				"id": 4,
-				"title": "Recht jugendlichen 4",
-				"text": "Text jugendlichen 4"
 			}
 		],
 		"parents": [
 			{
 				"id": 0,
 				"title": "Recht eltern 1",
-				"text": "Text eltern 1"
+				"text": "Text eltern 1",
+				"documentUrl": "docs/testpdf.pdf"
 			},
 			{
 				"id": 1,
 				"title": "Recht eltern 2",
-				"text": "Text eltern 2"
+				"text": "Text eltern 2",
+				"documentUrl": "docs/testword.docx"
 			},
 			{
 				"id": 2,
